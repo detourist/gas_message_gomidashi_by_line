@@ -1,4 +1,4 @@
-# gas_message_gomidashi_by_line
+# gas_send_gomidashi_message_by_line
 
 ## Spreadsheet
 
